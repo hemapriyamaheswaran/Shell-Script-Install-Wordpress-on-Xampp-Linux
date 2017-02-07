@@ -1,4 +1,4 @@
-# Shell-Script-Install-Wordpress-on-Xampp-Linux
+# Shell Script to Install Wordpress on Your Local Xampp - Linux
 
 Easy to use wordpress installation on Xampp.
 
